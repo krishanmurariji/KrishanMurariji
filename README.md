@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/liquid-morph-wordmark.svg" alt="KRIS — developer and builder" width="100%" />
+  <img src="./assets/liquid-morph-wordmark.svg" alt=".K.M. — developer and builder" width="100%" />
 </p>
 
 ---
